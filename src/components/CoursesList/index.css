@@ -1,0 +1,33 @@
+.image {
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.name {
+  font-size: 15px;
+  font-family: 'roboto';
+  color: #475569;
+  font-weight: 600;
+}
+
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 80px;
+  margin-bottom: 30px;
+  width: 200px;
+  height: 200px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+  .list-items {
+    margin-left: 20px;
+  }
+}

@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #e8e8e8;
+  width: 100%;
+  min-height: 12vh;
+  padding: 30px;
+  margin-bottom: 70px;
+}
+
+.header-image {
+  width: 150px;
+  height: auto;
+}
