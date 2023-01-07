@@ -28,6 +28,8 @@
 
 @media screen and (max-width: 767px) {
   .list-items {
-    margin-left: 20px;
+    margin-left: 10px;
+    width: 150px;
+    height: 150px;
   }
 }
